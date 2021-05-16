@@ -1,0 +1,11 @@
+
+.nav-link{
+	margin-right: 15px;
+	color:#496006;
+	letter-spacing: 0.5px;
+	transition: 0.5s;
+}
+.navbar-brand{
+	color: #032a49;
+	letter-spacing: 0.5px;
+}
